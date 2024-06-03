@@ -1,18 +1,15 @@
                                       MyDiary Project
 
 Overview:-
-
 MyDiary is a web-based diary application that allows users to securely write, edit, and manage their personal diary entries. This project leverages Java Servlets and JSP for the server-side application logic and HTML/CSS for the frontend. The application is designed to provide a simple and user-friendly interface for maintaining daily diary entries.
 
 Features:-
-
 1.User Registration and Authentication: Secure user registration and login functionality.
 2.Diary Entry Management: Users can create, view, edit, and delete diary entries.
 3.Search Functionality: Users can search through their diary entries by specific dates.
 4.Data Persistence: Uses a relational database to store user information and diary entries.
 
 Technologies Used:-
-
 Backend: Java Servlets, JSP
 Frontend: HTML, CSS, JavaScript
 Database: MySQL
