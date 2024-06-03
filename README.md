@@ -5,8 +5,11 @@ MyDiary is a web-based diary application that allows users to securely write, ed
 
 Features:-
 1.User Registration and Authentication: Secure user registration and login functionality.
+
 2.Diary Entry Management: Users can create, view, edit, and delete diary entries.
+
 3.Search Functionality: Users can search through their diary entries by specific dates.
+
 4.Data Persistence: Uses a relational database to store user information and diary entries.
 
 Technologies Used:-
