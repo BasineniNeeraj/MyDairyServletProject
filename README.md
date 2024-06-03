@@ -19,7 +19,7 @@ Database: MySQL
 Server: Apache Tomcat
 IDE: Eclipse
 
-                                  Setup and Installation:
+  Setup and Installation:
 
 Prerequisites:-
 Java Development Kit (JDK) 8 or higher
